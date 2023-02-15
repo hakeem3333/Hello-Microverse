@@ -106,7 +106,7 @@ In order to run this project you need:
 ### Setup
 to clone repository to your desired folder :
  ```open the terminal
-  git clone <ssh link>
+  git clone https://github.com/hakeem3333/Hello-Microverse.git
  ```
  
 
@@ -164,7 +164,7 @@ I would like to thank the Microverse technical staff team, code reviewrs for gui
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author**
+👤 **Hakeem Salaudeen** 
 
 - GitHub: [@hakeem3333](https://github.com/hakeem3333)
 - Twitter: [@hakeemsalaud](https://twitter.com/hakeemsalaud)
