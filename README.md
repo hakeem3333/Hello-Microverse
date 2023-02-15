@@ -187,9 +187,9 @@ I would like to thank the Microverse technical staff team, code reviewrs for gui
 
 👤 **Author**
 
-- GitHub: [@shrisakthi.ind](https://github.com/shri-sakthi-v)
-- Twitter: [@shrisakthi](https://twitter.com/shrisakthi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/venkatesh-shri-sakthi)
+- GitHub: [@hakeem3333](https://github.com/hakeem3333)
+- Twitter: [@hakeemsalaud](https://twitter.com/hakeemsalaud)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/hakeemsalud)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
