@@ -35,8 +35,7 @@
 
 # 📖 Set up a "Hello Microverse" project <a name="about-project"></a>
 
-> 
-**Set up a "Hello Microverse" project**, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps.
+
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -103,18 +102,11 @@ In order to run this project you need:
  - Any other tool you can think about
  
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 to clone repository to your desired folder :
  ```open the terminal
-  git clone <ssh link>
+  git clone https://github.com/hakeem3333/Hello-Microverse.git
  ```
  
 
@@ -125,14 +117,7 @@ Adding the needed linter for the project:
  For [HTML and CSS](https://github.com/microverseinc/linters-config/blob/master/html-css)
 
 
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
@@ -141,12 +126,6 @@ To view the project open the project by launching the Live Server plugging in vi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> 
-
-- [ ] **Integrating Javascript project with the required linter**
-- [ ] **Deployment in a server **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +164,7 @@ I would like to thank the Microverse technical staff team, code reviewrs for gui
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author**
+👤 **Hakeem Salaudeen** 
 
 - GitHub: [@hakeem3333](https://github.com/hakeem3333)
 - Twitter: [@hakeemsalaud](https://twitter.com/hakeemsalaud)
@@ -200,26 +179,5 @@ I would like to thank the Microverse technical staff team, code reviewrs for gui
 
 This project is [MIT](./LICENSE) licensed.
 
-MIT License
 
-Copyright (c) 2023 Hakeem Salaudeen
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
