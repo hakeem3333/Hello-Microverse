@@ -60,17 +60,52 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project">Hello Microverse</a>
+# 📖 [your_project_name] <a name="about-project"></a>
 
-This is a simple project on how to use linters for html and css
+> Describe your project in 1 or 2 sentences.
 
-## 🛠 Built With <a name="built-with"> HTML, CSS, GIT and Linters</a>
+**[your_project__name]** is a...
+
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[key_feature_1]**
+- **[key_feature_2]**
+- **[key_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -166,21 +201,21 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Salaudeen Hakeem</a>
+## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@Shri-sakthi-v](https://github.com/githubhandle)
-- Twitter: [@shrisakti](https://twitter.com/twitterhandle)
-- LinkedIn: [venkatesh-shri-sakti](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
-- GitHub: [@kwesiobuobi](https://github.com/githubhandle)
-- Twitter: [@kwesio-buobi](https://twitter.com/twitterhandle)
-- LinkedIn: [kwesi-obuobi](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,9 +225,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
--  more auto correct
--  voice recognision
-- more colors
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,9 +243,9 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
- <a name="support">Support message</a>
+## ⭐️ Show your support <a name="support"></a>
 
-Put your head down, ask questions and it will come together
+> Write a message to encourage readers to support your project
 
 If you like this project...
 
@@ -218,7 +253,7 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements">Thanks to Shak and  Sammuel</a>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
@@ -232,13 +267,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**was my "npm -y" showing error
+- **[Question_1]**
 
-  - [Answer_1]yeah at first, but I had to download the full node.js 
+  - [Answer_1]
 
-- **[Question_2]** how did you fix the error on css
+- **[Question_2]**
 
-  - [Answer_2]use linter auto fix code on lin
+  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
